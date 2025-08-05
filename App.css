@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+input{
+  width: 300px;
+  padding: 10px;
+  margin: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.btn {
+  background-color: rgb(103, 195, 226);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(41, 185, 233);
+}
+
+.viewUrl {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
